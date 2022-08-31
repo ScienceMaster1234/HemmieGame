@@ -1,15 +1,15 @@
-2022/08/28-16:48:17.715 9888 Reusing MANIFEST C:/Users/ANDRE/Documents/GitHub/HemmieGame/HemmieMoaningGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/28-16:48:17.715 9888 Recovering log #4
-2022/08/28-16:48:17.715 9888 Reusing old log C:/Users/ANDRE/Documents/GitHub/HemmieGame/HemmieMoaningGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
-2022/08/28-17:19:59.419 b69c Level-0 table #8: started
-2022/08/28-17:19:59.420 b69c Level-0 table #8: 10591 bytes OK
-2022/08/28-17:19:59.422 b69c Delete type=0 #4
-2022/08/28-17:19:59.422 b69c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2022/08/28-17:19:59.427 b69c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 222 : 1
-2022/08/28-17:19:59.427 b69c Compacting 1@1 + 1@2 files
-2022/08/28-17:19:59.429 b69c Generated table #9@1: 61 keys, 2652 bytes
-2022/08/28-17:19:59.429 b69c Compacted 1@1 + 1@2 files => 2652 bytes
-2022/08/28-17:19:59.430 b69c compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/08/28-17:19:59.430 b69c Delete type=2 #5
-2022/08/28-17:19:59.430 b69c Delete type=2 #8
-2022/08/28-17:19:59.431 b69c Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 222 : 1 .. (end); will stop at (end)
+2022/08/30-22:25:33.560 30f8 Reusing MANIFEST C:/Users/ANDRE/Documents/GitHub/HemmieGame/HemmieMoaningGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/30-22:25:33.560 30f8 Recovering log #7
+2022/08/30-22:25:33.560 30f8 Reusing old log C:/Users/ANDRE/Documents/GitHub/HemmieGame/HemmieMoaningGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2022/08/30-22:27:16.624 9ac Level-0 table #12: started
+2022/08/30-22:27:16.631 9ac Level-0 table #12: 7821 bytes OK
+2022/08/30-22:27:16.633 9ac Delete type=0 #7
+2022/08/30-22:27:16.633 9ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/08/30-22:27:16.633 9ac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03q\xa7\x02-M.xB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 356 : 1
+2022/08/30-22:27:16.633 9ac Compacting 1@1 + 1@2 files
+2022/08/30-22:27:16.635 9ac Generated table #13@1: 61 keys, 2642 bytes
+2022/08/30-22:27:16.635 9ac Compacted 1@1 + 1@2 files => 2642 bytes
+2022/08/30-22:27:16.636 9ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/30-22:27:16.636 9ac Delete type=2 #9
+2022/08/30-22:27:16.636 9ac Delete type=2 #12
+2022/08/30-22:27:16.637 9ac Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03q\xa7\x02-M.xB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 356 : 1 .. (end); will stop at (end)
